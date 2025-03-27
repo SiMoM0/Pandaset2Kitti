@@ -2,6 +2,8 @@
 
 Convert [Pandaset](https://pandaset.org/) to [SemanticKitti](http://www.semantic-kitti.org/) format.
 
+Old version of the script.
+
 ## Dataset
 
 Visit the [Pandaset](https://pandaset.org/) website, sign up and then download the dataset.
